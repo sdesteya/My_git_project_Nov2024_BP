@@ -10,3 +10,5 @@
 3. Local repository: The timeline
 
 What happens if I forget the -m in the commit ?
+
+I'm getting in trouble.
