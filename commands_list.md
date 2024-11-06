@@ -7,3 +7,5 @@
 - git config --global --list : list all your configs
 - git config --global user.name "My name" : To have your name in the config
 - git config --global user.email "my_email@vib.be": to have my email in the config
+
+- git mv old.file.txt new.file.txt : when changin a name so git knows is the same file. You stil lneed to commit this change.
